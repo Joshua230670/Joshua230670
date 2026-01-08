@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Joshua Izquierdo and I am currently a senior at FIU. I am actively pursuing my Bachelors of Arts in Computer Science. The programming language I currently work with is Java, but I am in the process of transitioning to Python.
+
+### Courses Taken
