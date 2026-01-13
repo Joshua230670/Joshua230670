@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Joshua Izquierdo and I am currently a senior at FIU. I am actively pursuing my Bachelors of Arts in Computer Science. The programming language I currently work with is Java, but I am in the process of transitioning to Python.
+My name is Joshua Izquierdo and I am currently a senior. I am actively pursuing my Bachelors of Arts in Computer Science. The programming language I currently work with is Java, but I am in the process of transitioning to Python. My programming journey began with taking a computer science class
 
-### Courses Taken
+### Technical Skills
+W.I.P
+### Interests
+W.I.P
+### Current Projects
+W.I.P
+### Career Goals
+W.I.P
