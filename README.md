@@ -15,10 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Joshua Izquierdo and I am currently a senior. I am actively pursuing my Bachelors of Arts in Computer Science. The programming language I currently work with is Java, but I am in the process of transitioning to Python. My programming journey began with taking a computer science class
+My name is Joshua Izquierdo and I am currently a senior at Florida International University. I am 21 years old and actively pursuing my Bachelors of Arts in Computer Science. The programming language I currently work with is Java, but I am in the process of transitioning to Python. My programming journey began with taking a computer science class in high schhol and I have continued that path ever since.
 
 ### Technical Skills
-W.I.P
+- Programming
+  * Originally worked with **Java** and now use **Python** actively to develop programs.
+  * Used **Swift** to develop applications with XCode.
+- Front-end development
+  * Created **User Interfaces** for a personal projcet application.
+- Back-end development
+  * Worked with APIs such as **Streamlit**, **Pandas**, and **Matplotlib** to create and display visual representations of data in an application.
+- Group work
+  * Worked with several groups and individuals to develop applications for projects such as [Adoptly](https://github.com/COP-4655-Group/Adoptly)
+  * Applied the **Scrum framework** to manage work groups and track project progress.
+- 
 ### Interests
 W.I.P
 ### Current Projects
