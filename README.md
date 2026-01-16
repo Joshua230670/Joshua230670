@@ -19,20 +19,22 @@ My name is **Joshua Izquierdo** and I am currently a senior at **Florida Interna
   * Originally worked with **Java** and now use **Python** actively to develop programs.
   * Used **Swift** to develop applications with XCode.
 - Front-end development
-  * Created **User Interfaces** for a personal projcet application.
+  * Created **user interface** for a personal projcet application.
 - Back-end development
   * Worked with APIs such as **Streamlit**, **Pandas**, and **Matplotlib** to create and display visual representations of data in an application.
 - Group work
-  * Worked with several groups and individuals to develop applications for projects such as [Adoptly](https://github.com/COP-4655-Group/Adoptly)
+  * Worked with several groups and individuals to develop applications for projects.
 - Project Management
-  * Applied the **Scrum framework** to manage work groups and track project progress.
+  * Applied the **Scrum framework** to manage work groups and track project progression.
   * Utilized GitHub to create issues and assign them to project members.
 ## Interests
 - Front-end Software Engineering
+  * The reason I state that front-end software engineering is one of my interests, is because I find enjoyment in the creative process of developing an application's user interface and functionality. Actualizing ideas for applications, planning the development, and constructing the app whether from scratch or from the pillars of another is an accomplishing experience.
 - Video Game Development
-  * Ever since I was little, I loved to play video games all the time. They are the main reason why I became interested in programming as the idea of being able to create such wonders of work is fascinating.
+  * Ever since I was little, I loved to play video games all the time. They are the main reason why I became interested in programming as the idea of being able to create such masterpieces in story-telling and gameplay is fascinating.
 ## Current Projects
 - [Adoptly](https://github.com/COP-4655-Group/Adoptly)
 - [Bird Observer](https://github.com/Joshua230670/class-project-HCL)
+- An Undertale Battle Simulator
 ## Career Goals
-W.I.P
+
